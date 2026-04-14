@@ -1017,7 +1017,7 @@ function AnnotationPanel({ screenId, onScreenChange }) {
         </div>
       </div>
 
-      <div style={{ marginTop: 16, fontSize: 11, color: C.g500, textAlign: "center" }}>
+      <div style={{ marginTop: 16, fontSize: 11, color: C.g500 }}>
         Field Central O&M — Mobile App · PI 11 · April 2026
       </div>
     </div>
